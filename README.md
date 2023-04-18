@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dhghavmre/image/upload/v1681793496/1663083477166_v2yq5h.jpg)]
+[![MasterHead](https://lh3.googleusercontent.com/paNbleLd5nrYTZZC6xKDR1wqs5II1qKrwGCRVsg484EakePlr_NbGsRoY8PvyLqp1o1pckFNrFU1LoyS7jo9bpNMZcDe8EqMgjbJtKCn)]
 
 
 
@@ -19,14 +19,14 @@
 
 - 📫 How to reach me **Ramakrishnanalligandla@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Windows-11/Desktop/Ramakrishna_2023-04-17-131651.pdf](file:///C:/Users/Windows-11/Desktop/Ramakrishna_2023-04-17-131651.pdf)
+- 📄 Know about my experiences [https://res.cloudinary.com/dhghavmre/image/upload/v1681794482/WhatsApp_Image_2023-04-18_at_10.37.31_AM_uy5tbb.jpg](https://res.cloudinary.com/dhghavmre/image/upload/v1681794482/WhatsApp_Image_2023-04-18_at_10.37.31_AM_uy5tbb.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ramakrishnanalligandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
+<a href="https://twitter.com/@ramakri51874155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nalligandla-ramakrishna123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nalligandla-ramakrishna123/" height="30" width="40" /></a>
-<a href="https://instagram.com/ramakrishnanalligandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ramakrishnanalligandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
+<a href="https://instagram.com/Ramakrishnanalligandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ramakrishnanalligandla301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramakrishnanalligandla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
