@@ -1,4 +1,4 @@
-[![MasterHead]width=cover(https://lh3.googleusercontent.com/paNbleLd5nrYTZZC6xKDR1wqs5II1qKrwGCRVsg484EakePlr_NbGsRoY8PvyLqp1o1pckFNrFU1LoyS7jo9bpNMZcDe8EqMgjbJtKCn)]
+![MasterHead](https://lh3.googleusercontent.com/paNbleLd5nrYTZZC6xKDR1wqs5II1qKrwGCRVsg484EakePlr_NbGsRoY8PvyLqp1o1pckFNrFU1LoyS7jo9bpNMZcDe8EqMgjbJtKCn)
 
 
 
