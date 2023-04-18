@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Node Js & React js**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,SQL,NODEJS,EXPRESSJS,REACTJS**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **Ramakrishnanalligandla@gmail.com**
 
