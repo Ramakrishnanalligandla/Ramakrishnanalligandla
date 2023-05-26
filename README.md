@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Ramakrishnanalligandla@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dhghavmre/image/upload/v1681794482/WhatsApp_Image_2023-04-18_at_10.37.31_AM_uy5tbb.jpg](https://res.cloudinary.com/dhghavmre/image/upload/v1681794482/WhatsApp_Image_2023-04-18_at_10.37.31_AM_uy5tbb.jpg)
+- 📄 Know about my experiences [https://res.cloudinary.com/dhghavmre/image/upload/v1681794482/WhatsApp_Image_2023-04-18_at_10.37.31_AM_uy5tbb.jpg]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
